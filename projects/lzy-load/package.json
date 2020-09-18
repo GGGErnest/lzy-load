@@ -1,9 +1,9 @@
 {
   "name": "lzy-load",
-  "version": "0.0.3",
+  "version": "1.1.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GGGErnest/ng-projects.git"
+    "url": "https://github.com/GGGErnest/lzy-load.git"
   },
   "keywords": [
     "Lazy",
@@ -13,11 +13,11 @@
   ],
   "author": "Ernesto Pedrosa Alonso <ernestop891123@gmail.com>",
   "bugs": {
-    "url": "https://github.com/GGGErnest/ng-projects/issues"
+    "url": "https://github.com/GGGErnest/lzy-load/issues"
   },
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^8.2.9",
-    "@angular/core": "^8.2.9"
+    "@angular/common": "10.0.10",
+    "@angular/core": "10.0.10"
   }
 }

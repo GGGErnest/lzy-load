@@ -1,6 +1,6 @@
 # LzyLoad
 
-LzyLoad is a Angular 8+ Lib for loading content on demand
+LzyLoad is an Angular Lib for loading content on demand
 
 ## Description
 
