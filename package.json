@@ -5,8 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "ng-ui2qp:build": "ng build lzy-load",
-    "ng-ui2qp:build:prod": "ng build lzy-load --prod",
+    "lzy-load:build": "ng build lzy-load",
+    "lzy-load:build:prod": "ng build lzy-load --prod",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
