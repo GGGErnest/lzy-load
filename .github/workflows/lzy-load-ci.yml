@@ -1,12 +1,12 @@
 name: Building and Publishing ng-ui2qp
 env:
-  TARGET: ng-ui2qp
+  TARGET: lzy-load
 on:
   push:
     branches:
       - master
     paths:
-      - 'projects/ng-ui2qp/**'
+      - 'projects/lzy-load/**'
 jobs:
   build:
     runs-on: ubuntu-latest
